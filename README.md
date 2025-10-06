@@ -9,7 +9,7 @@ The primary goal is to assist ophthalmologists by providing automated and accura
 ## ✨ Features  
 - 📷 Image preprocessing (resizing, normalization, noise removal)  
 - 🧠 CNN-based deep learning model for defect detection  
-- 📐 Measurement of defect area in pixels
+- 📐 Measurement of defect area in pixels then converted to mm
 - 📊 Visualization of results (defect area highlighted)  
 - 🔬 Potential application in clinical analysis and diagnosis support  
 
@@ -27,4 +27,5 @@ The primary goal is to assist ophthalmologists by providing automated and accura
 
 
 ## 📊 Results  
+<img width="1400" height="720" alt="image" src="https://github.com/user-attachments/assets/fe4c72e3-98ee-4368-8042-f9b25ce80b7d" />
 
